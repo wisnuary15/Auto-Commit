@@ -26,4 +26,4 @@ Alternatively, you can manually create it by following these steps:
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action)
 - [Irfan Maulana](https://github.com/mazipan)
 
-- f
+- fa
